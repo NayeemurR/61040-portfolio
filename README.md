@@ -5,7 +5,6 @@ This will be your portfolio repository. Use this as a [template repository](http
 # About Me
 
 My name is Nayeemur, I'm a senior studying 6-3, it's nice to meet you! [Here is a link to my favorite car](https://www.google.com/search?num=10&sca_esv=7550878c098e0420&sxsrf=AE3TifOWUAL2BFchehfauxxcYItZyOvV4A:1757006809209&udm=2&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZ1Y6MJ25_tmWITc7uy4KIeioyp3OhN11EY0n5qfq-zENwnGygERInUV_0g0XKeHGJIK02MUc5n41I8mJf-rA8r_6zpYS2MPuGIIBdwhxaUeh1j7LhnaWRcGV4cHbAAPvVQenSR8SemJRCf6B2-D6Vi24rRLKcJw6c8Y_FKhE4HBPr2qNF9cksPQqKvUHJgsRWXcIjDQ&q=s550&sa=X&ved=2ahUKEwj2luy10L-PAxWaElkFHR2oJ8kQtKgLegQIEBAB&biw=1512&bih=857&dpr=2#vhid=qSYV7yNl7WdzyM&vssid=mosaic)
-Now you should write something about yourself here!\_
 
 Some fun facts about me:
 
@@ -13,7 +12,7 @@ Some fun facts about me:
 2. I love technology.
 3. I have one brother.
 
-![picture of the interior of a car](https://static01.nyt.com/images/2014/06/22/automobiles/WHEEL1/WHEEL1-superJumbo.jpg)
+![picture of the interior of a car](https://media.licdn.com/dms/image/v2/D4E03AQHNkdeYdbOnWA/profile-displayphoto-scale_400_400/B4EZjZ7I5jGYAg-/0/1756002816188?e=1759968000&v=beta&t=oJmD_-sGJyRubJteZzxgC_jSvXLFxByEpPdOdYchTck)
 
 # Table of Contents
 
