@@ -14,6 +14,8 @@ Some fun facts about me:
 
 ![picture of the interior of a car](https://media.licdn.com/dms/image/v2/D4E03AQHNkdeYdbOnWA/profile-displayphoto-scale_400_400/B4EZjZ7I5jGYAg-/0/1756002816188?e=1759968000&v=beta&t=oJmD_-sGJyRubJteZzxgC_jSvXLFxByEpPdOdYchTck)
 
+![picture of the interior of a car](https://tarikhasic.com/img/selfie_small.jpeg)
+
 # Table of Contents
 
 [Link to Assignment 1](assignments/assignment1.md)
