@@ -2,15 +2,15 @@
 
 ## Domains
 
-**Reading books**: I don’t particularly enjoy reading, but I know that it’s good for me and has always helped me progress far in life during the periods when I read frequently. I enjoy reading about entrepreneurship, business skills, marketing, and books that will make a direct impact on my life for the better.
+**Reading books**: I don’t particularly enjoy reading, but I know that it’s good for me and has always helped me progress far in life during the periods when I read frequently. I enjoy reading about entrepreneurship, business skills, marketing, and books that will make a direct impact on my life for the better. I try my best to read 1 book per month.
 
 **Task lists**: I live by task lists. Anything I need to do will get placed on a task list. I have many things going on in my life that I need to keep organized and simplified. If I don’t, then I will forget to do something important that will only have negative consequences or just make my life a bit harder than it has to be.
 
-**Bills/Subscriptions**: I pay for a ton of subscriptions and also pay bills frequently. My subscriptions are all over the place spanning across multiple cards to maximize reward points. It gets a bit confusing sometimes and sneaky charges do occur.
+**Bills/Subscriptions**: I pay for a ton of subscriptions and also pay bills frequently. My subscriptions are all over the place spanning across multiple credit cards to maximize reward points. It gets a bit confusing sometimes and sneaky charges do slip through if I'm not careful.
 
-**Calling customer service**: I live in an immigrant household, and we’re always calling customer service since my parents aren’t too familiar with navigating a website to get things done. They usually resort to calling customer service and I am always the person who hops on the call and explains or resolves everything.
+**Calling customer service**: I live in an immigrant household, and we’re always calling customer service since my parents aren’t too familiar with navigating a website to get things done. When a problem arises with anything, my parents resort to calling customer service and hand over the phone to me to resolve the issue. I'm not a huge fan of this system.
 
-**Travel**: My family and I traveled together for the first time this summer to Saudi Arabia and Bangladesh. It was a nice experience, but we were very confused about many things related to logistics. Examples include visas, booking hotels, organizing pickup cars, and the laws of each country. I wish there were an easy way to know what you need for each country before traveling there, and not missing something important logistically.
+**Travel**: My family and I traveled together for the first time this summer to Saudi Arabia and Bangladesh. It was a nice experience, but we were very confused about many logistically. Examples include visas, booking hotels, organizing pickup cars, and the laws of each country. I wish there were an easy way to know what you need for each country before traveling there, and not missing something important logistically.
 
 **Employees**: I run an online business where I have to hire employees every so often. I’m not a huge fan of the initial filtering process of candidates. I wish there were an easier way to get to the best candidates quicker.
 
@@ -20,7 +20,7 @@
 
 **Fitness**: I recently started caring more about my health and trying to work out and eat healthier. I want to live a good life and not face many health-related issues as I age. It is hard sometimes to keep up with this lifestyle when you see food you’d dream of eating readily accessible. Being consistent with workouts is also difficult when your vision of ‘why’ becomes blurry.
 
-**Remembering everything**: I have an immigrant family that can only speak English to get by. I’m the one in charge of jotting down everyone’s passwords to various online tools and services, remembering where important things are kept around the house, reading mail, and filling out forms.
+**Remembering everything**: I have an immigrant family that can only speak English to get by. I’m the one in charge of jotting down everyone’s passwords to various online tools and services, remembering where important things are kept around the house, reading mail, and filling out forms. It’s a lot to keep track of, and I wish there were an easier way to keep everything organized and in one place.
 
 ## Problems
 
@@ -28,23 +28,23 @@
 
 **Problem 1**: Distracted when reading
 
-Unfortunately, my mind races and I get distracted easily, causing me to reread pages, which ultimately demotivates me from even continuing to read. These consistent demotivating moments build up and ultimately stop me from reading for long periods of time. I wish there were a way to stop myself from treating reading as a passive activity, but rather as an active activity where my mind won’t wander, and I can absorb the material the first time around.
+Unfortunately, my mind races and I get distracted easily, causing me to reread pages, which ultimately demotivates me from even continuing to read. These consistent demotivating moments build up and ultimately stop me from reading for long periods of time. I wish there was a way to stop myself from treating reading as a passive activity, but rather as an active activity where my mind won’t wander, and I can absorb the material the first time around.
 
 **Problem 2**: Knowing which book to read next
 
-I chose not to include this because these days I feel as if you can simply ask AI to help you choose a good next book. Existing chatbots like ChatGPT can give great recommendations based on books you like and books you’ve read. It doesn’t seem like a big or complex enough problem to pursue.
+I chose not to include this because these days you can simply ask AI to help you choose a good next book. Existing chatbots like ChatGPT can give great recommendations based on books you like and books you’ve read. It doesn’t seem like a big or complex enough problem to pursue.
 
 **Problem 3**: Understanding and remembering a book’s lessons
 
-I chose not to select this problem because the solution is too trivial. You can simply read actively and write down notes, thoughts, and lessons on a notepad while you read. The basic solution works just fine, and a whole app is not needed to solve this problem.
+I chose not to select this problem because the solution is too trivial. You can simply read actively and write down notes, thoughts, and lessons on a notepad while you read. The basic solution works just fine. An app is not needed to solve this problem.
 
 ### Task lists
 
-**Problem 1**: Many tasks to do
+**Problem 1**: Too many tasks to do
 
-My mind races frequently. It’s not a great combination when there’s an abundance of tasks to do. I get overwhelmed and resort to brain-rotting instead. I’d like to figure out how to tackle my task list more effectively, rather than abandoning it when times get tough.
+My mind races frequently. It’s not a great combination when there’s an abundance of tasks to do. I get overwhelmed and resort to brain-rotting on YouTube shorts instead. I’d like to figure out how to tackle my task list more effectively, rather than abandoning it when times get tough.
 
-**Problem 2**: Main task list on notebook and laptop
+**Problem 2**: Syncing task list between a physical notebook and a laptop
 
 I decided not to choose this because it might not be a widespread problem for me to solve. The easy solution would be to just have a synced task list using digital devices. Instead of a physical notebook, you can use a tablet to sync a task list with your laptop so it’s always up to date on both devices.
 
@@ -56,11 +56,11 @@ I decided not to select this problem because it’s more of a motivation issue. 
 
 **Problem 1**: Keeping track of everything
 
-It’s hard to keep track of everything and not get mentally lost. Ideally, I would like to fix this issue organizationally so I can have a bit more mental peace.
+It’s hard to keep track of everything and not get mentally lost. I have to keep track of all the information and also who that information belongs to and where I can easily access it. Ideally, I would like to fix this issue organizationally so I can have a bit more mental peace.
 
 **Problem 2**: Teaching everyone to take care of their own things
 
-I decided not to pursue this problem because it’s less software-related. Teaching someone to take care of their own things would require more in-person human interaction.
+I decided not to pursue this problem because it’s less software-related. Teaching someone to take care of their own things would require a more in-person human interaction.
 
 **Problem 3**: Storing Everything in One Place
 
@@ -70,11 +70,13 @@ Although this is a real concern, it feels more like a cybersecurity and best-pra
 
 ### Reading books
 
-**Reader** (the one reading the book and engaging with the app)
+**Reader** (the user reading the book and engaging with the app)
 
-**Publisher/Author** (interested in fairer reviews and more attentive readers)
+**Publisher/Author** (entity that published the book and/or wrote the book)
 
-**Impacts**: Reader suffers from getting distracted when reading. Publisher/Author might have interest in reader spending more attention to their book because it may give the book a fairer review, the author a fairer judgement, or even convince the reader to read more books by the same author.
+**Partner** (someone who is reading the same book as Reader whether for a class, book club, or just for fun)
+
+**Impacts**: Reader suffers from getting distracted when reading. Publisher/Author might have interest in reader spending more attention to their book because it may give the book a fairer review, the author a fairer judgement, or even convince the reader to read more books by the same author. Partner has interest in Reader finishing and understanding the book so they can discuss it together for the shared activity.
 
 ### Task lists
 
@@ -84,19 +86,19 @@ Although this is a real concern, it feels more like a cybersecurity and best-pra
 
 **Parent** (parent of Lister)
 
-**Group Member** (someone who is in a group with Lister, either as a friend, coworker, group mate for project, etc).
+**Partner** (someone who is in a group with Lister, either as a friend, coworker, group mate for project, etc).
 
-**Impacts**: Lister gets overwhelmed when there is an abundance of tasks in the task list. Teacher has interest in Lister getting their academic-related tasks done. Parent has interest in Lister getting all their tasks done and not being overwhelmed and stressed. Group Member prefers if Lister gets their task done because it also affects them in some way (group project, friends hang-out time, etc)
+**Impacts**: Lister gets overwhelmed when there is an abundance of tasks in the task list. Teacher has interest in Lister getting their academic-related tasks done. Parent has interest in Lister getting all their tasks done and not being overwhelmed and stressed. Partner prefers if Lister gets their task done because it also affects them in some way (group project, friends hang-out time, etc)
 
 ### Remembering everything
 
-**Rememberer** (user who is in charge of remembering everything for immigrant family)
+**Rememberer** (user who is in charge of remembering everything for a group of people)
 
 **Family** (family of Rememberer who need things remembered for them)
 
 **Institutions** (the entities from which the passwords, mail, forms, etc, come from)
 
-**Impacts**: Rememberer suffers from tracking whole family’s things. Family benefits from Rememberer keeping track of all their information and suffers if rememberer does not keep track of anything specific. Institutions benefit from people remembering their passwords, reading their mail, filling out their forms, etc.
+**Impacts**: Rememberer suffers from tracking whole family’s things. Family benefits from Rememberer keeping track of all their information and suffers if rememberer does not keep track of something specific. Institutions benefit from people remembering their passwords, reading their mail, filling out their forms, etc.
 
 ## Evidence
 
@@ -118,7 +120,7 @@ Although this is a real concern, it feels more like a cybersecurity and best-pra
 
 [Freedom](https://freedom.to/): App that blocks distracting apps/sites but doesn’t make reading itself active.
 
-[Forest](https://www.forestapp.cc/): App that starts growing a digital tree when you start focusing on a task, but kills the tree if you leave the app halfway. Doesn’t help the distracted rereading problem if you don’t care about the digital tree dying, or just leave the app on idle and just wait for the tree to finish growing.
+[Forest](https://www.forestapp.cc/): App that starts growing a digital tree when you start focusing on a task, but kills the tree if you leave the app halfway. Doesn’t help the distracted rereading problem if you don’t care about the digital tree dying, or just leave the app on idle and just wait for the tree to finish growing and then leave.
 
 [Bookly](https://getbookly.com/): App that helps you read as a daily habit and tracks your reading progress. It seems to be more for readers who are trying to make it a goal of reading daily and tracking that progress, rather than readers who are trying to understand their books the first time around.
 
@@ -128,17 +130,17 @@ Although this is a real concern, it feels more like a cybersecurity and best-pra
 
 [Your To-Do List Is, in Fact, Too Long](https://hbr.org/2020/08/your-to-do-list-is-in-fact-too-long): A Harvard Business Review article confirming that too many options lead to procrastination. The strategy is to just take your giant to-do list and make a new one where you only write down one task. This will guarantee you complete the most important task.
 
-[Overwhelmed by your master to do list? You need THIS](https://www.accountabilitymuse.com/blog/overwhelmed-by-your-master-to-do-list): A blog discussing the Red Velvet Rope Method. You only keep the absolute necessary tasks on your to-do lists. Everything else should just get removed from the list. Eventually, you’ll learn to be ok with not getting every tiny little thing done in your life, but you’ll manage your stress better since your to-do list will not be cluttered with junk.
+[Overwhelmed by your master to do list? You need THIS](https://www.accountabilitymuse.com/blog/overwhelmed-by-your-master-to-do-list): A blog discussing the Red Velvet Rope Method. You only keep the absolute necessary tasks on your to-do lists. Everything else should just get removed from the list. Eventually, you’ll learn to be ok with not getting every tiny little thing done in your life, and you’ll manage your stress better since your to-do list will not be cluttered with junk.
 
 [You Have Too Many Items On Your To-Do List, New Data Shows](https://www.forbes.com/sites/markmurphy/2020/01/24/you-have-too-many-items-on-your-to-do-list-new-data-shows/): Forbes article found that 86% of people feel like they don't have enough time to do everything they want to do on their task list.
 
-[Why Ditching Your To-Do List Will Increase Your Productivity](https://alicedartnell.com/blog/why-ditching-your-to-do-list-will-increase-your-productivity/): A blog that says scheduling tasks in your calendar instead of putting them in a task list will actually help you get things done. When tasks are scheduled, you’ll know exactly what to get done and when to get it done.
+[Why Ditching Your To-Do List Will Increase Your Productivity](https://alicedartnell.com/blog/why-ditching-your-to-do-list-will-increase-your-productivity/): A blog that says scheduling tasks in your calendar instead of putting them in a task list will actually help you get things done. When tasks are scheduled, you’ll know exactly what to get done and when to get them done.
 
-[Feeling Overwhelmed With Too Many Things To Do](https://www.simplypsychology.org/overwhelmed-with-too-many-things-to-do.html): Article sharing that more than half of young adults report feeling overwhelmed most of the time. This affects all aspects of their lives, such as school, work, friends, group mates, teachers, and parents.
+[Feeling Overwhelmed With Too Many Things To Do](https://www.simplypsychology.org/overwhelmed-with-too-many-things-to-do.html): Article sharing that more than half of young adults report feeling overwhelmed most of the time with the amount of things to do. This affects all aspects of their lives, such as school, work, friends, group mates, teachers, and parents.
 
 [Todoist](https://www.todoist.com/): Todoist is a to-do list app, which may seem counterintuitive. However, it allows you to organize tasks for today and those that are upcoming, so you only see tasks that are absolutely necessary. However, if you fail to do some tasks today, they may pile up in the upcoming section, and we’re back to the same problem of too many tasks.
 
-[TickTick](https://ticktick.com/): An app that integrates a task list, calendar, and pomodoro timer in one to help you manage and track your productivity. I’m not sure how well this would work if you don’t know exactly how long a task might take and you end up underestimating it.
+[TickTick](https://ticktick.com/): An app that integrates a task list, calendar, and pomodoro timer in one to help you manage and track your productivity. I’m not sure how well this would work if you don’t know exactly how long a task might take and you end up underestimating it on your calendar.
 
 [Clarify](https://time.thefabulous.co/onboarding/time-initial): App that acts as an ADHD daily companion. It helps build habits for focus, peace, and progress. This feels more like a tool for after you get overwhelmed. Not sure if it will help you from preventing the stress of too many tasks.
 
@@ -146,7 +148,7 @@ Although this is a real concern, it feels more like a cybersecurity and best-pra
 
 ### Remembering everything
 
-[Similarities, and Crucial Differences, Among Immigrant Households in Philadelphia](https://www.pew.org/en/research-and-analysis/fact-sheets/2024/12/similarities-and-crucial-differences-among-immigrant-households-in-philadelphia): Although this research was done in Philadelphia, its impact stretches to many immigrant families throughout the US. The article confirms that the English speaker in an immigrant household may be in charge of all paperwork-related things and that can lead to stress that US-born residents don’t face.
+[Similarities, and Crucial Differences, Among Immigrant Households in Philadelphia](https://www.pew.org/en/research-and-analysis/fact-sheets/2024/12/similarities-and-crucial-differences-among-immigrant-households-in-philadelphia): Although this research was done in Philadelphia, its impact stretches to many immigrant families throughout the US. The article confirms that the English speaker in an immigrant household is usually in charge of all paperwork-related things and that can lead to stress that US-born residents don’t face.
 
 [Measuring cognitive load in multitasking using mobile fNIRS](https://www.sciencedirect.com/science/article/pii/S2666956024000345): A 2024 fNIRS-based experiment showed that cognitive overload impairs performance accuracy, especially in multitasking scenarios.
 
@@ -162,9 +164,9 @@ Although this is a real concern, it feels more like a cybersecurity and best-pra
 
 [Apps for Improving Memory](https://shelteringarmsinstitute.com/rehablogs/apps-for-improving-memory/): This is a blog article about apps that help improve your memory. However, these apps will just help with the memory aspect, not really the stress aspect of holding everyone’s information together.
 
-[MyMind](https://mymind.com/): App that acts as one place for everything you care about. No need to file it, label, or even tag it. It’s all magically organized and visualized for you. Still, I’m not sure if I would trust something like this to store and organize passwords on its own.
+[MyMind](https://mymind.com/): App that acts as one place for everything you care about. No need to file it, label, or even tag it. It’s all automatically organized and visualized for you. Still, I’m not sure if I would trust something like this to store and organize passwords on its own.
 
-[LastPass](https://www.lastpass.com/): Password management app where you can store all your logins. Didn’t see the option to share account for multiple people to access certain logins. Also, not sure if this would be helpful for storing physical pieces of important information like mail.
+[LastPass](https://www.lastpass.com/): Password management app where you can store all your logins. I didn’t see the option to share an account with multiple people to access certain logins. Also, I'm not sure if this would be helpful for storing physical pieces of important information like mail.
 
 ## Features
 
@@ -178,7 +180,7 @@ Although this is a real concern, it feels more like a cybersecurity and best-pra
 
 ### Task lists
 
-**Feature 1 Priority Auto-Sort**: System automatically ranks tasks by urgency/importance to prevent overwhelm.
+**Feature 1 Priority Auto-Sort**: System automatically ranks tasks by urgency/importance. This breaks down a jumble of tasks into bite-sized pieces to prevent stress.
 
 **Feature 2 Daily Three**: App encourages users to commit to just three key tasks per day, reducing overload.
 
