@@ -1,7 +1,3 @@
-# Template Portfolio
-
-This will be your portfolio repository. Use this as a [template repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-template-repository) and customize it to your own tastes. We gave you a starting point with a space to describe yourself and a link to where your assignment 1 file can be.
-
 # About Me
 
 My name is Nayeemur, I'm a senior studying 6-3, it's nice to meet you! [Here is a link to my favorite car](https://www.google.com/search?num=10&sca_esv=7550878c098e0420&sxsrf=AE3TifOWUAL2BFchehfauxxcYItZyOvV4A:1757006809209&udm=2&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZ1Y6MJ25_tmWITc7uy4KIeioyp3OhN11EY0n5qfq-zENwnGygERInUV_0g0XKeHGJIK02MUc5n41I8mJf-rA8r_6zpYS2MPuGIIBdwhxaUeh1j7LhnaWRcGV4cHbAAPvVQenSR8SemJRCf6B2-D6Vi24rRLKcJw6c8Y_FKhE4HBPr2qNF9cksPQqKvUHJgsRWXcIjDQ&q=s550&sa=X&ved=2ahUKEwj2luy10L-PAxWaElkFHR2oJ8kQtKgLegQIEBAB&biw=1512&bih=857&dpr=2#vhid=qSYV7yNl7WdzyM&vssid=mosaic)
