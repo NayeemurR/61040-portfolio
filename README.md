@@ -9,10 +9,11 @@ Some fun facts about me:
 3. I have one brother.
 
 Here is a photo of my bestie...
-![picture of the interior of a car](https://media.licdn.com/dms/image/v2/D4E03AQHNkdeYdbOnWA/profile-displayphoto-scale_400_400/B4EZjZ7I5jGYAg-/0/1756002816188?e=1759968000&v=beta&t=oJmD_-sGJyRubJteZzxgC_jSvXLFxByEpPdOdYchTck)
+
+![bestie picture](https://media.licdn.com/dms/image/v2/D4E03AQHNkdeYdbOnWA/profile-displayphoto-scale_400_400/B4EZjZ7I5jGYAg-/0/1756002816188?e=1759968000&v=beta&t=oJmD_-sGJyRubJteZzxgC_jSvXLFxByEpPdOdYchTck)
 
 Here is a photo of my ex-roommate💀
-![picture of the interior of a car](https://tarikhasic.com/img/selfie_small.jpeg)
+![ex-roommate picture](https://tarikhasic.com/img/selfie_small.jpeg)
 
 # Table of Contents
 
