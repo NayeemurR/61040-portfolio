@@ -1,4 +1,4 @@
-# Assignment 2
+# PSET 1
 
 ## Exercise 1: Reading a concept
 
