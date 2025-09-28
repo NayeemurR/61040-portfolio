@@ -22,3 +22,5 @@ Here is a photo of my ex-roommate💀
 [Link to Pset 1](psets/pset1.md)
 
 [Link to Pset 2](psets/pset2.md)
+
+[Link to Assignment 2](assignments/assignment2.md)
