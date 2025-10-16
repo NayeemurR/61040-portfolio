@@ -24,3 +24,7 @@ Here is a photo of my ex-roommate💀
 [Link to Pset 2](psets/pset2.md)
 
 [Link to Assignment 2](assignments/assignment2.md)
+
+[Link to FAQ](recitation/faq.html)
+
+[Link to Contact](recitation/contact.html)
